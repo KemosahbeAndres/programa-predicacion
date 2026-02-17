@@ -9,8 +9,8 @@
       <hr>
       <ul class="nav nav-pills flex-column mb-auto gap-1">
         <li class="nav-item">
-          <RouterLink to="/programa" class="nav-link text-white" active-class="active">
-            🏠 Programa
+          <RouterLink to="/programas" class="nav-link text-white" active-class="active">
+            🏠 Programas
           </RouterLink>
         </li>
         <li class="nav-item">
